@@ -95,7 +95,7 @@ This extreme imbalance poses significant modeling challenges, requiring speciali
 ### Performance Metrics
 - **Cross-Validation RMSE**: 1.844 ± 0.362
 - **Leaderboard Score**: 2.637
-- **Improvement over Baseline**: 50.2%
+- **Improvement over Baseline**: 28.8%
 
 ### Improvement Journey
 1. **TF-IDF Baseline**: 3.704 RMSE
